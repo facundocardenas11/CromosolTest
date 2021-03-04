@@ -16,13 +16,13 @@ Abrir la consola:
     • En linux: Presionar tecla Ctrl +Alt + t
  
 # Clonarse el repositorio 
+
     - cd "folder"
     - git clone "url de github"
+    - git clone https://github.com/facundocardenas11/CromosolTest.git
 
 # Se puede clonar desde la IDE elegida o desde línea de comandos:
 
-    - cd /WorkSpace (o donde esten los proyectos con java)
-    - git clone https://github.com/facundocardenas11/FravegaChallenge.git
     - Abrimos IDE Eclipse (en este caso)
     - Import > Import Folder or Archive > Seleccionamos Directory > "Ruta donde clonamos el proyecto"
     - Click en Finish. Aguardamos que se carguen las dependencias de Maven.
