@@ -1,9 +1,5 @@
-# CromosolTest
-Cromosol Challenge
-
-
-# CromosolChallenge
-Desarrollo de APiRest para Fravega
+# Cromosol Challenge
+Desarrollo de APiRest para Peliculas
 
 
 # Instrucciones para la ejecucion del proyecto
